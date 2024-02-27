@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\bin\Debug\net6.0\Elves_1.exe
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\bin\Debug\net6.0\Elves_1.deps.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\bin\Debug\net6.0\Elves_1.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\bin\Debug\net6.0\Elves_1.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\bin\Debug\net6.0\Elves_1.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\refint\Elves_1.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\Elves_1.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Elves_1\obj\Debug\net6.0\ref\Elves_1.dll

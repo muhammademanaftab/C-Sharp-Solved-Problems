@@ -1,0 +1,7 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\bin\Debug\Horror Movies.exe.config
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\bin\Debug\Horror Movies.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\bin\Debug\Horror Movies.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\obj\Debug\Horror Movies.csproj.AssemblyReference.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\obj\Debug\Horror Movies.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\obj\Debug\Horror Movies.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Horror Movies\Horror Movies\obj\Debug\Horror Movies.pdb

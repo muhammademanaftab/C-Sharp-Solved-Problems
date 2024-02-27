@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\bin\Debug\net6.0\Gladiators_A.exe
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\bin\Debug\net6.0\Gladiators_A.deps.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\bin\Debug\net6.0\Gladiators_A.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\bin\Debug\net6.0\Gladiators_A.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\bin\Debug\net6.0\Gladiators_A.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\refint\Gladiators_A.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\Gladiators_A.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\Gladiators_A\obj\Debug\net6.0\ref\Gladiators_A.dll

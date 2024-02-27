@@ -1,0 +1,7 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\bin\Debug\Bite.exe.config
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\bin\Debug\Bite.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\bin\Debug\Bite.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\obj\Debug\Bite.csproj.AssemblyReference.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\obj\Debug\Bite.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\obj\Debug\Bite.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Bite\Bite\obj\Debug\Bite.pdb

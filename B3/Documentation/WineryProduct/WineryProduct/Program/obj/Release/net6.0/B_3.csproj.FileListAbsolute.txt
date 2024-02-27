@@ -1,0 +1,28 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\bin\Release\net6.0\B_3.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\bin\Release\net6.0\B_3.deps.json
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\bin\Release\net6.0\B_3.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\bin\Release\net6.0\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\bin\Release\net6.0\B_3.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\refint\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\B_3.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Winery Production\Program\obj\Release\net6.0\ref\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Program\bin\Release\net6.0\B_3.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Program\bin\Release\net6.0\B_3.deps.json
+C:\Users\Muhammad Eman Aftab\Downloads\Program\bin\Release\net6.0\B_3.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\Downloads\Program\bin\Release\net6.0\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Program\bin\Release\net6.0\B_3.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\refint\B_3.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\B_3.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Program\obj\Release\net6.0\ref\B_3.dll

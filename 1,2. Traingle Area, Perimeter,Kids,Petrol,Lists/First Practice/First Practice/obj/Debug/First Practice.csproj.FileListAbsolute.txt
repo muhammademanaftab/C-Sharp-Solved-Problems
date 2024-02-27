@@ -1,0 +1,21 @@
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\obj\Debug\First Practice.csproj.AssemblyReference.cache
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\obj\Debug\First Practice.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\bin\Debug\First Practice.exe.config
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\bin\Debug\First Practice.exe
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\bin\Debug\First Practice.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\obj\Debug\First Practice.exe
+C:\Users\Muhammad Eman Aftab\Downloads\First Practice\First Practice\obj\Debug\First Practice.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\obj\Debug\First Practice.csproj.AssemblyReference.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\obj\Debug\First Practice.csproj.CoreCompileInputs.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\obj\Debug\First Practice.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\obj\Debug\First Practice.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\bin\Debug\First Practice.exe.config
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\bin\Debug\First Practice.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\First Practice\First Practice\bin\Debug\First Practice.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\bin\Debug\First Practice.exe.config
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\bin\Debug\First Practice.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\bin\Debug\First Practice.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\obj\Debug\First Practice.csproj.AssemblyReference.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\obj\Debug\First Practice.csproj.CoreCompileInputs.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\obj\Debug\First Practice.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\1. Traingle Area, Perimeter,Kids,Petrol,Lists\First Practice\First Practice\obj\Debug\First Practice.pdb

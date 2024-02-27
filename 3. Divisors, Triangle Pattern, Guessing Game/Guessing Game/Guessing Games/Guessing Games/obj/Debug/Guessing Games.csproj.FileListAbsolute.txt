@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\bin\Debug\Guessing Games.exe.config
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\bin\Debug\Guessing Games.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\bin\Debug\Guessing Games.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\obj\Debug\Guessing Games.csproj.AssemblyReference.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\obj\Debug\Guessing Games.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\obj\Debug\Guessing Games.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Guessing Games\Guessing Games\obj\Debug\Guessing Games.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\bin\Debug\Guessing Games.exe.config
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\bin\Debug\Guessing Games.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\bin\Debug\Guessing Games.pdb
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\obj\Debug\Guessing Games.csproj.AssemblyReference.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\obj\Debug\Guessing Games.csproj.CoreCompileInputs.cache
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\obj\Debug\Guessing Games.exe
+E:\Educational\Education Material\ELTE_BSCS\Programming C#\Practices\3. Divisors, Triangle Pattern, Guessing Game\Guessing Game\Guessing Games\Guessing Games\obj\Debug\Guessing Games.pdb

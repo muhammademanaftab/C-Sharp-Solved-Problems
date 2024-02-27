@@ -1,0 +1,16 @@
+15
+Vineyard A;Merlot;500;25
+Red Grapes Estate;Shiraz;400;35
+Vineyard A;Cabernet Sauvignon;300;30
+Red Grapes Estate;Pinot Noir;250;28
+Sun Valley Vineyards;Chardonnay;300;24
+Golden Hills Winery;Chardonnay;150;26
+Mountain View Cellars;Zinfandel;350;30
+Sun Valley Vineyards;Sauvignon Blanc;200;18
+Golden Hills Winery;Pinot Noir;450;38
+Vineyard A;Chardonnay;200;22
+Mountain View Cellars;Shiraz;180;33
+Red Grapes Estate;Cabernet Sauvignon;150;40
+Sun Valley Vineyards;Zinfandel;100;32
+Golden Hills Winery;Merlot;200;28
+Mountain View Cellars;Sauvignon Blanc;120;20

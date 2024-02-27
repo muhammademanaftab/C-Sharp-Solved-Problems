@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\bin\Debug\net6.0\Stormy_Days.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\bin\Debug\net6.0\Stormy_Days.deps.json
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\bin\Debug\net6.0\Stormy_Days.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\bin\Debug\net6.0\Stormy_Days.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\bin\Debug\net6.0\Stormy_Days.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\refint\Stormy_Days.dll
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\Stormy_Days.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Stormy_Days\obj\Debug\net6.0\ref\Stormy_Days.dll

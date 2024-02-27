@@ -1,0 +1,7 @@
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\bin\Debug\Plan Ticket.exe.config
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\bin\Debug\Plan Ticket.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\bin\Debug\Plan Ticket.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\obj\Debug\Plan Ticket.csproj.AssemblyReference.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\obj\Debug\Plan Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\obj\Debug\Plan Ticket.exe
+C:\Users\Muhammad Eman Aftab\Downloads\Plan Ticket\Plan Ticket\obj\Debug\Plan Ticket.pdb
