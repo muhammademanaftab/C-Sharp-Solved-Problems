@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\bin\Debug\net6.0\B_2.exe
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\bin\Debug\net6.0\B_2.deps.json
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\bin\Debug\net6.0\B_2.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\bin\Debug\net6.0\B_2.dll
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\bin\Debug\net6.0\B_2.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.dll
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\refint\B_2.dll
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.pdb
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\B_2.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\Downloads\B_2\obj\Debug\net6.0\ref\B_2.dll
